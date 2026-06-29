@@ -1,0 +1,20 @@
+<resources>
+    <style name="Theme.Grateful" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:colorAccent">@color/grateful_teal</item>
+        <item name="android:navigationBarColor">@color/grateful_teal</item>
+        <item name="android:statusBarColor">@color/grateful_teal</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="Theme.Grateful.Splash" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:navigationBarColor">@color/grateful_teal</item>
+        <item name="android:statusBarColor">@color/grateful_teal</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

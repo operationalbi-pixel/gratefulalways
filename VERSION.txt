@@ -1,0 +1,7 @@
+Grateful Android WebView APK
+Version: 1.0
+Website: https://gratefulalways.netlify.app/
+App Name: Grateful
+Package: com.daynite.grateful
+Logo: Smile(1).png, resized without crop
+Splash: Teal background + supplied logo
